@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3000/",
-  "homepage": "https://username.github.io/AryaR2705/build"
+  "homepage": "https://aryar2705.github.io/login_shit/build",
   "dependencies": { 
     "@k88/module-scope-plugin": "^1.1.0",
     "@testing-library/jest-dom": "^5.17.0",
