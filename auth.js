@@ -46,7 +46,7 @@ router.post('/login1', async(req,res)=>{
     try{
         const check1=await user1.findOne({username:username})
         const check2=await user1.findOne({pass:pass})
-        if(check1 || check2){
+        if(check1 && check2){
             res.json("exist")
         }
         else if(!check1 || !check2){
