@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.b096cacf.chunk.css",
-  "main.js": "/static/js/main.465b12b2.chunk.js",
-  "main.js.map": "/static/js/main.465b12b2.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.c165c877.js",
-  "runtime~main.js.map": "/static/js/runtime~main.c165c877.js.map",
-  "static/js/2.16cbf300.chunk.js": "/static/js/2.16cbf300.chunk.js",
-  "static/js/2.16cbf300.chunk.js.map": "/static/js/2.16cbf300.chunk.js.map",
-  "static/js/3.a712f853.chunk.js": "/static/js/3.a712f853.chunk.js",
-  "static/js/3.a712f853.chunk.js.map": "/static/js/3.a712f853.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.78ba3b916c10b7072a1f377d45a8c04d.js": "/precache-manifest.78ba3b916c10b7072a1f377d45a8c04d.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.b096cacf.chunk.css.map": "/static/css/main.b096cacf.chunk.css.map"
+  "main.css": "/login_shit/build/static/css/main.b096cacf.chunk.css",
+  "main.js": "/login_shit/build/static/js/main.465b12b2.chunk.js",
+  "main.js.map": "/login_shit/build/static/js/main.465b12b2.chunk.js.map",
+  "runtime~main.js": "/login_shit/build/static/js/runtime~main.315ffa4e.js",
+  "runtime~main.js.map": "/login_shit/build/static/js/runtime~main.315ffa4e.js.map",
+  "static/js/2.16cbf300.chunk.js": "/login_shit/build/static/js/2.16cbf300.chunk.js",
+  "static/js/2.16cbf300.chunk.js.map": "/login_shit/build/static/js/2.16cbf300.chunk.js.map",
+  "static/js/3.a712f853.chunk.js": "/login_shit/build/static/js/3.a712f853.chunk.js",
+  "static/js/3.a712f853.chunk.js.map": "/login_shit/build/static/js/3.a712f853.chunk.js.map",
+  "index.html": "/login_shit/build/index.html",
+  "precache-manifest.2ee37f7f5ab5b36f180499831abbba62.js": "/login_shit/build/precache-manifest.2ee37f7f5ab5b36f180499831abbba62.js",
+  "service-worker.js": "/login_shit/build/service-worker.js",
+  "static/css/main.b096cacf.chunk.css.map": "/login_shit/build/static/css/main.b096cacf.chunk.css.map"
 }
